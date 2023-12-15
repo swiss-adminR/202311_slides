@@ -5,7 +5,7 @@ Slides of the [autumn meetup 2023](https://www.meetup.com/adminr/events/29698808
 
 *Julia Gustavsen, Agroscope*
 
-- Slides to follow soon
+- [Link](https://github.com/jooolia/20231130_adminR_APIs_with_R_intro) to Julia's github repo (slides and code)
 
 **From {dbplyr} to {duckplyr} – first applications in the context of SNB‘s payments data**
 
